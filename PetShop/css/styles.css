@@ -328,6 +328,7 @@ nav ul {
     font-size: 9px;
     line-height: 11px;
     margin-right: 80px;
+    border: none;
 }
 
 .footer {
@@ -460,9 +461,11 @@ a:visited {
         align-items: center;
     }
     #products-images-1,
-    #products-images-2 {
+    #products-images-2,
+    #products-images-3 {
         margin: 0;
-        margin-bottom: 4vh;
+        margin-top: 8vh;
+        background-color: #f7f7f7cc;
     }
     .suscribe {
         display: flex;
